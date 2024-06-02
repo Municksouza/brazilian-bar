@@ -21,4 +21,9 @@ Things you may want to cover:
 
 * Deployment instructions
 
+
+  Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+
+file "README.md", markdown_file_content, force: true
+
 * ...

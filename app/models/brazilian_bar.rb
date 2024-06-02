@@ -1,0 +1,2 @@
+class BrazilianBar < ApplicationRecord
+end
