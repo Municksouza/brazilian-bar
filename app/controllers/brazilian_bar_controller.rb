@@ -1,0 +1,2 @@
+class BrazilianBarController < ApplicationController
+end
